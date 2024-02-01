@@ -1,6 +1,6 @@
 header{
     color: #dcb114;
-    background-color: rebeccapurple;
+    background-color: lightseagreen;
     font-family: "Bauhaus 93";
     letter-spacing: 5mm;
 }
@@ -20,7 +20,7 @@ nav ul{
 nav li a{
     display: block;
     padding: 10px;
-    background-color: rebeccapurple;
+    background-color: lightseagreen;
     color: #dcb114;
     text-decoration: none;
     text-align: center;
@@ -45,7 +45,7 @@ main section{
     width: 30%;
     margin: 30px;
 }
-section#teine{
+#teine{
     position: absolute;
     left: 900px;
     top:250px
