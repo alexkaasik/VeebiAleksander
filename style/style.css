@@ -28,3 +28,25 @@ nav li a{
 nav li a:hover{
     background-color: turquoise;
 }
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #dcb114;
+    width: 100%;
+    text-align: center;
+}
+main section{
+    border-left: 6px solid #dcb114;
+
+    background-color: cornsilk;
+    border-radius: 60px;
+    padding: 2%;
+    width: 30%;
+    margin: 30px;
+}
+#teine{
+    position: absolute;
+    left: 900px;
+    top:250px
+}
