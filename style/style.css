@@ -1,0 +1,30 @@
+header{
+    color: #dcb114;
+    background-color: rebeccapurple;
+    font-family: "Bauhaus 93";
+    letter-spacing: 5mm;
+}
+/*nav menüüs link fookuses on teise taustaga*/
+nav{
+    padding: 2% ;
+    margin-top: 4%;
+    background-color: lightcyan;
+}
+nav li{
+    float: left;
+}
+nav ul{
+    list-style-type: none;
+    overflow: visible;
+}
+nav li a{
+    display: block;
+    padding: 10px;
+    background-color: rebeccapurple;
+    color: #dcb114;
+    text-decoration: none;
+    text-align: center;
+}
+nav li a:hover{
+    background-color: turquoise;
+}
